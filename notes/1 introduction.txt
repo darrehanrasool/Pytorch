@@ -1,0 +1,5 @@
+PyTorch is a leading, open-source machine learning and deep learning framework primarily
+developed by Meta's AI Research lab (FAIR) and currently managed under the Linux Foundation.
+Known for its Pythonic nature, flexibility, and speed, it has become the standard tool for 
+cutting-edge AI research and industrial applications, powering systems like OpenAI's ChatGPT 
+and Tesla Autopilot.
