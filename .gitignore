@@ -156,7 +156,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-
+*.pdf
 # Spyder project settings
 .spyderproject
 .spyproject
